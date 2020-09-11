@@ -3,8 +3,8 @@ title: William Donovan
 subtitle: Personal Website
 email: wddonovan@ucdavis.edu
 description: Electrical engineer looking for full time positions
-baseurl: "/williamdonovan" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+# baseurl: "/williamdonovan" # the subpath of your site, e.g. /blog
+# url: # the base hostname & protocol for your site
 author: William Donovan
 street_address: 5722 Raters Drive
 city: Santa Rosa
